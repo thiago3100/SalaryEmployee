@@ -1,0 +1,15 @@
+C:\ProjetosC#\udemy-pt4\Listas\bin\Debug\net6.0\Listas.exe
+C:\ProjetosC#\udemy-pt4\Listas\bin\Debug\net6.0\Listas.deps.json
+C:\ProjetosC#\udemy-pt4\Listas\bin\Debug\net6.0\Listas.runtimeconfig.json
+C:\ProjetosC#\udemy-pt4\Listas\bin\Debug\net6.0\Listas.dll
+C:\ProjetosC#\udemy-pt4\Listas\bin\Debug\net6.0\Listas.pdb
+C:\ProjetosC#\udemy-pt4\Listas\obj\Debug\net6.0\Listas.csproj.AssemblyReference.cache
+C:\ProjetosC#\udemy-pt4\Listas\obj\Debug\net6.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetosC#\udemy-pt4\Listas\obj\Debug\net6.0\Listas.AssemblyInfoInputs.cache
+C:\ProjetosC#\udemy-pt4\Listas\obj\Debug\net6.0\Listas.AssemblyInfo.cs
+C:\ProjetosC#\udemy-pt4\Listas\obj\Debug\net6.0\Listas.csproj.CoreCompileInputs.cache
+C:\ProjetosC#\udemy-pt4\Listas\obj\Debug\net6.0\Listas.dll
+C:\ProjetosC#\udemy-pt4\Listas\obj\Debug\net6.0\refint\Listas.dll
+C:\ProjetosC#\udemy-pt4\Listas\obj\Debug\net6.0\Listas.pdb
+C:\ProjetosC#\udemy-pt4\Listas\obj\Debug\net6.0\Listas.genruntimeconfig.cache
+C:\ProjetosC#\udemy-pt4\Listas\obj\Debug\net6.0\ref\Listas.dll
